@@ -23,7 +23,7 @@ The aim of this project is to forecast the daily closing price series of [Bitcoi
 
 I followed different approaches to time series forecasting, implementing both statistical techniques and machine learning algorithms.
 
-I used classical approaches to time series forecasting, such as exponential smoothing and ARIMA, and we leveraged Tensorflow to build a variety of artificial neural networks (including linear, CNN and RNN models) with multivariate time series.
+I used classical approaches to time series forecasting, such as exponential smoothing and ARIMA, and I leveraged Tensorflow to build a variety of artificial neural networks (including linear, CNN and RNN models) with multivariate time series.
 
 ## Installation <a name="installation"></a>
 
