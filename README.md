@@ -3,7 +3,7 @@
 ## Time series forecasting
 
 <div align="center">
-  <img src="https://github.com/AlaGrine/Toxic-Comment-Classification-with-Tensorflow/blob/main/stats/toxic_comments_freepik.jpg" >
+  <img src="https://github.com/AlaGrine/Forecasting_Bitcoin_Price_Series/blob/main/stats/BTC_logo2.jpg" >
 </div>
 
 ### Table of Contents
