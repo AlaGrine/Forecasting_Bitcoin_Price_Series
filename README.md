@@ -35,7 +35,7 @@ This project requires Python 3 and the following Python libraries installed:
 
 The main file of the project is `BTC_forecast.ipynb`: the source code.
 
-The project folder also contains the `stats` folder which contains the history and metrics of our models (csv files).
+The project folder also contains the `stats` folderwhich contains the evaluation metrics for all models (.CSV files).
 
 ## Approaches to Bitcoin price forecasting <a name="models"></a>
 
