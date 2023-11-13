@@ -29,7 +29,7 @@ I used classical approaches to time series forecasting, such as exponential smoo
 
 This project requires Python 3 and the following Python libraries installed:
 
-`yfinance`, `pandas`, `numpy`, `tensorflow` , `pmdarima`, `statsmodel`, `matplotlib`, `plotly` and `googletrans`
+`yfinance`, `pandas`, `numpy`, `tensorflow` , `pmdarima`, `statsmodel`, `matplotlib`, `plotly`
 
 ## File Descriptions <a name="file_descriptions"></a>
 
